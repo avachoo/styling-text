@@ -39,13 +39,13 @@ img > figcaption {
     font-style: italic;
 }
 
-a.link {
+a {
     color: #1a1a1a;
     text-decoration: underline;
 
 }
 
-a.link:hover {
+a:hover {
     text-decoration: none;
     color: #ff3530;
 }
